@@ -1,0 +1,128 @@
+/*
+The below copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+*/
+
+
+@media (max-width: 1800px) {
+    #countdown_dashboard .dash-glob:first-child{margin-bottom: 6%;}
+    .preschool_text{margin-bottom: 3%;}
+    .box_content{width:28%;margin-right: 20px;}
+    #left1 h1{margin-top: 25%;}
+    #countdown_dashboard .text-day h3{padding: 15px 0;}
+    .box_content .pink_btn {padding: 15px 41px;}
+    .why_sections h3{font-size: 20px;}
+    .why_sections{padding: 30px 25px;}
+}
+@media (max-width: 1563px) {
+    .box_content .pink_btn {padding: 10px 40px;}
+    #countdown_dashboard .text-day h3 {padding: 0;}
+    .box_btn{text-align:center;}
+    .why_sections h3{font-size: 18px;}
+}
+@media (max-width: 1400px) {
+    .hamburgermenu_toggle{width:195px;}
+    .inline_button .pink_btn{padding: 20px 25px;}
+    .play_btn{padding: 19.5px 15px 19.5px 42px;}
+    .grey_btn{padding: 19.5px 30px;}
+    .inline_button .pink_btn{padding: 19px 20px;}
+    .plan_details li{font-size: 16px;line-height: 20px;}
+    .inline_button .play_btn:before{left: 10px;}
+    .testi_content p{font-size: 16px;line-height: 20px;margin-bottom: 18px;}
+    .test_text p{font-size: 15px;line-height: 21px;}
+    .box_content .pink_btn {padding: 10px 30px;}
+    .modal-body iframe {width: 570px;height: 500px;}
+     .plans_rate h3 {font-size: 18px;}
+}
+@media (max-width: 1300px) {
+    .box_content .pink_btn {padding: 10px 20px;}
+    .inline_button .play_btn:before{left: -8px;}
+   
+}
+@media (max-width: 1280px) {
+    .menu_links a{padding-left: 10px;}
+    .box_content .pink_btn {padding: 10px 19px;}
+}
+@media (max-width: 1199px){
+    .brand-logo{position: relative; top:0;}
+    #left1 h1 {margin-top: 20%;}
+    #right1 .overlay, #right2 .overlay, #right3 .overlay, #right4 .overlay{border-top: 10px solid #171f28; background: none;}
+    .box_content{width:auto;margin-right: 15px;}
+    .box_content .pink_btn {padding: 10px 50px;}
+    #right2 .tab_container, #right4 .tab_container{margin-bottom: 15%;}
+}
+@media (max-width: 768px){
+    #right2 .tab_container, #right4 .tab_container {margin-bottom: 22%;} 
+}
+@media (max-width: 767px){
+    .modal-body iframe {width: 100%;height: 450px;}
+}
+@media (max-width: 754px){
+    .box_content {width: 30%;}
+    .box_content .pink_btn {padding: 10px 20px;}
+    .why_sections p{min-height: unset;}
+    .why_sections {margin-right: 0;}
+    .whyus_details{width: 100%;}
+}
+@media (max-width: 575px){
+    .preschool_text li{width: auto;}
+    .preschool_link{position: relative;right: 0;top: 0;background-position: 95% 55%; display: inline-block;}
+    .right_menu_icon{width: 30%;}
+    .menu_links{width: 70%;}
+    .preschool_text:before{height: 85px;}
+
+}
+@media screen and (max-width: 480px) {
+    .tabs, .tabs1, .tabs2 {display: none;}
+    .tab_drawer_heading, .tab_drawer_heading1, .tab_drawer_heading2 {
+        background-color: #A7B8CA;color: #171F28;margin: 0;padding: 5px 20px;display: block;cursor: pointer;-webkit-touch-callout: none;-webkit-user-select: none;-khtml-user-select: none;-moz-user-select: none;-ms-user-select: none;user-select: none;
+    }
+    .d_active {
+        background-color: #f44089;color: #fff;font-size: 20px !important;
+    }
+    .plan_title, .plans_rate{width: 100%;}
+    .plans_rate h3{padding-top: 15px;}
+    .plan_section h3{line-height: 50px; margin-top: 15px;}
+    .plans_rate h3 {padding-top: 0;text-align: left;margin-top: 0 !important;}
+    .plan_details{margin-top: 15px;}
+    #countdown_dashboard .text-day h3.tab_drawer_heading {padding: 7px 20px;color: #fff;font-size: 20px !important;font-weight: 400; margin: 15px 0;}
+    .grey_btn {padding: 5px 12px;margin-right: 30px;margin-bottom: 10px;}
+    .inline_button .play_btn:before {left: -8px;}
+    .inline_button .pink_btn {padding: 12px;}
+    .tab_container{margin-top: 0;}
+    .plan_section {padding: 45px 15px;}
+    .plans_info .blue_tag{right: -15px;}
+    .testi_content {padding: 40px 15px;}
+    #left1 h1{font-size: 46px;line-height: 48px;}
+    .pink_btn {padding: 12.5px 50.82px;}
+    .testimonial .test_img, .testimonial .test_text{width:100%;}
+    .right_menu{display:none;}
+    #left1 .item-title{position: relative;}
+    .mobile_menu{display: block;position: absolute;right: 55px;top: 20%;}
+    .ms-left .ms-section .ms-tableCell .item-title, .ms-right .ms-section .ms-tableCell .item-title{padding-top: 60px;padding-bottom: 60px;}
+    #right2 .tab_container, #right4 .tab_container {margin-bottom: 40px;}
+    .testi_content p {font-size: 14px;line-height: 18px;margin-bottom: 15px;}
+    .social-icons{display: none;}
+
+}
+@media screen and (max-width: 414px) {
+    .box_content { width: 100%;margin-bottom: 10px;}
+    .box_content .pink_btn {padding: 10px 50px;}
+    .bottom_class{top: 70px;}
+    .test_text h5, .test_text h6{font-size: 14px;line-height: 20px;}
+    .plan_section h3 {line-height: 30px;}
+    .plans_rate h3:first-child{padding-top: 0;}
+    .inline_button{margin-top: 10px;}
+    .hamburgermenu_toggle {width: 205px;top: 21px;left: auto;right: 0;}
+    .toggle_links li a{font-size: 16px;line-height: 13px;padding: 16px 15px;}
+    .toggle_links li a:last-child{border-bottom: 0;}
+    #left1 .item-title p {width: auto;margin-bottom: 5px;}
+    .item-title h2 {font-size: 2.3em !important;}
+    .panel-title>.small, .panel-title>.small>a, .panel-title>a, .panel-title>small, .panel-title>small>a, .panel-body {line-height: 18px;font-size: 14px;}
+    .modal-body iframe {width: 362px;height: 350px;}
+}
+@media screen and (max-width: 375px) {
+    .modal-body iframe {width: 323px;}
+}
+@media screen and (max-width: 320px) {
+    .modal-body iframe {width: 100%;}
+}
